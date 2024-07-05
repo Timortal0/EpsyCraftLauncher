@@ -1,9 +1,9 @@
 {
   "name": "epsycraftlauncher",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "productName": "Epsycraft Launcher",
   "description": "Launcher officiel du serveur EpsyCraft de Timortal",
-  "author": "Timortal & Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modifié par Timortal",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Timortal0/EpsyCraftLauncher",
   "bugs": {
